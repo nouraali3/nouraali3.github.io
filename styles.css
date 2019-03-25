@@ -1,0 +1,45 @@
+body{
+	background: rgb(242, 244, 244);
+}
+
+h1{
+	color: rgb(245, 183, 177);
+	text-align: center;
+}
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333333;
+}
+
+.topics {
+  float: left;
+}
+
+.topic {
+  display: block;
+  color: rgb(250, 219, 216);
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+}
+
+.bolttopic{
+	background-color: #111111;
+}
+
+.topic:hover {
+  background-color: #111111;
+}
+
+h2{
+	color: rgb(123, 36, 28);
+}
+
+.projectname{
+	color: rgb(176, 58, 46);
+}
