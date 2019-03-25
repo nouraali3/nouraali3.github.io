@@ -28,12 +28,12 @@ ul {
   text-decoration: none;
 }
 
-.bolttopic{
+
+.selectedtopic{
 	background-color: #111111;
 }
-
 .topic:hover {
-  background-color: #111111;
+  background-color: rgb(123, 36, 28) ;
 }
 
 h2{
