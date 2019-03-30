@@ -1,0 +1,28 @@
+.tabdetails{
+	position: absolute;
+	top: 49% ;
+	margin: 0;
+	height: 100%;
+	background-color: rgb(254, 238, 241);
+	float:left;
+	clear:none;  
+	width: 100%;
+	font-family: Verdana; 
+	font-weight: bold;
+
+}
+
+.projectname{
+	color: rgb(176, 58, 46);
+	font-family: "Arial";
+	font-weight: bold; 
+	text-decoration: none;
+}
+
+.projectitem{
+	padding-left: 2px;
+	margin-bottom: 15px;
+	margin-right: 35px;
+	border-style: inset;
+	background-color: rgb(255, 247, 247);
+}

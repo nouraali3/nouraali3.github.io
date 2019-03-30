@@ -1,0 +1,27 @@
+.tabdetails{
+	position: absolute;
+	top: 49% ;
+	margin: 0;
+	height: 100%;
+	background-color: rgb(254, 238, 241);
+	float:left;
+	clear:none;  
+	width: 100%;
+	font-family: Verdana; 
+	font-weight: bold;
+
+}
+
+.myinfo{
+	padding-left: 40px;
+}
+
+.selectedtopic{
+	background-color: #111111;
+}
+.topic:hover {
+  background-color: rgb(123, 36, 28) ;
+}
+
+
+
