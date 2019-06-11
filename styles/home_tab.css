@@ -16,9 +16,7 @@
 	padding-left: 40px;
 }
 
-.selectedtopic{
-	background-color: #111111;
-}
+
 .topic:hover {
   background-color: rgb(123, 36, 28) ;
 }
